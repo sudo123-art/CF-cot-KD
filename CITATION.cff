@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "CF-CoT: Coarse-to-Fine Chain-of-Thought Knowledge Distillation for Visual Ordinal Rating"
+authors:
+  - family-names: Wang
+    given-names: Mingqian
+  - family-names: Yao
+    given-names: Yingliang
+  - family-names: Xiong
+    given-names: Wenxin
+  - family-names: Wang
+    given-names: Bo
+  - family-names: Ren
+    given-names: Jian
+  - family-names: Xu
+    given-names: Meng
+year: 2026
+notes: "Submitted to ICASSP 2027."
